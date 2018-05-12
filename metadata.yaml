@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9762'
     url: http://www.gutenberg.org/2009/agents/9762
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21201#Journal-of-a-Voyage-to-BrazilAnd-Residence-There-During-Part-of-the-Years-1821-1822-1823
 gutenberg_bookshelf: Women's Travel Journals
 gutenberg_issued: '2007-04-22'
 gutenberg_type: Text
