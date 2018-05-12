@@ -1,0 +1,31 @@
+_repo: Journal-of-a-Voyage-to-BrazilAnd-Residence-There-During-Part-of-the-Years-1821-1822-1823_21201
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Callcott, Maria, Lady
+    alias: Graham, Maria Dundas
+    birthdate: 1785
+    deathdate: 1842
+    gutenberg_agent_id: '9762'
+    url: http://www.gutenberg.org/2009/agents/9762
+description: ''
+gutenberg_bookshelf: Women's Travel Journals
+gutenberg_issued: '2007-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21201'
+  lccn: '02016560'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brazil -- Description and travel'
+- !lcc 'F2501'
+title: 'Journal of a Voyage to Brazil
+
+  And Residence There During Part of the Years 1821, 1822, 1823'
+url: http://www.gutenberg.org/ebooks/21201
